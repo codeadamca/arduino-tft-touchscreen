@@ -8,3 +8,22 @@ A basic example of displaying images using an Arduino and a TFT touchscreen.
 3. Place the SD card in the back of the TFT scrrn and unstall the screen touchscreen on the Arduino.
 
 > Note: I'm using this [TFT Touchscreen](https://www.aliexpress.com/item/1874979237.html?spm=a2g0s.9042311.0.0.27424c4dE69kwA)
+
+4. Open the Arduino IDE and add the following code:
+
+```csharp
+
+# TEST
+
+```
+
+5. Change the dimensions in the code to match your screen. Change the list of your image filenames.
+6. Upload and run the code.
+
+## Common Problems
+
+### Image Format
+
+### TFT Support
+
+I usually use the online Arduino Web Editor, but in this case I had to make a change to one of the libraries, and this is onluy possible when using the download verion of the Arduino IDE.
