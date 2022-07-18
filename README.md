@@ -1,4 +1,5 @@
-# arduino-tft-touchscreen
+# Arduino and a TFT Touchscreen
+
 A basic example of displaying images using an Arduino and a TFT touchscreen.
 
 ## Steps
