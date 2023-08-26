@@ -23,12 +23,15 @@ The images on the SD card need to be BMP format. To get the images to work I had
 
 I usually use the online Arduino Web Editor; however, in this case I had to make a change to one of the libraries, and this is only possible when using the download verion of the Arduino IDE. I had to adjust the Mcufriend_kbv Arduino library to work with my component. I had some help from a fellow Arduino programmer on [how to do this](https://forum.arduino.cc/index.php?topic=714629.msg4801325#msg4801325).
 
-## Tutorial Requirements:
+> Full tutorial URL:  
+> https://codeadam.ca/learning/arduino-tft-touchscreen.html
+
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [Arduino Create](https://create.arduino.cc/editor) 
-
-Full tutorial URL: https://codeadam.ca/learning/arduino-tft-touchscreen.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
